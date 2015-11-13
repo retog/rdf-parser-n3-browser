@@ -1,10 +1,10 @@
 {
   "name": "rdf-parser-n3-browser",
-  "version": "0.3.0-rc1",
+  "version": "0.3.0-rc1b",
   "description": "A browser friendly version of rdf-parser-n3",
   "main": "index.js",
   "scripts": {
-    "install": "mkdir -p dist && browserify index.js --ignore rdf-ext > dist/n3-parser.js"
+    "install": "mkdir -p dist && browserify index.js --external rdf-ext > dist/n3-parser.js"
   },
   "author": "Reto Gmür <me@farewellutopia.com>",
   "license": "MIT",
