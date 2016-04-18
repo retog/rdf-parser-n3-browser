@@ -9,7 +9,7 @@
   "author": "Reto Gmür <me@farewellutopia.com>",
   "license": "MIT",
   "dependencies": {
-    "rdf-parser-n3": "0.3.0-rc1"
+    "rdf-parser-n3": "0.3.0"
   },
   "repository" : { 
     "type" : "git", 
