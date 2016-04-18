@@ -1,6 +1,6 @@
 {
   "name": "rdf-parser-n3-browser",
-  "version": "0.3.0-rc1c",
+  "version": "0.3.0",
   "description": "A browser friendly version of rdf-parser-n3",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "dependencies": {
     "rdf-parser-n3": "0.3.0"
   },
-  "repository" : { 
-    "type" : "git", 
-    "url" : "https://github.com/retog/rdf-parser-n3-browser.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retog/rdf-parser-n3-browser.git"
   },
   "devDependencies": {
     "browserify": "latest"
