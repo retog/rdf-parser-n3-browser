@@ -1,6 +1,6 @@
 {
   "name": "rdf-parser-n3-browser",
-  "version": "0.3.0",
+  "version": "0.3.0b",
   "description": "A browser friendly version of rdf-parser-n3",
   "main": "index.js",
   "scripts": {
